@@ -1,0 +1,9 @@
+{
+    "urls": {
+        "Выписка по диапазону 3xx": "https://opendata.digital.gov.ru/downloads/ABC-3xx.csv?1710948258581",
+        "Выписка по диапазону 4xx": "https://opendata.digital.gov.ru/downloads/ABC-4xx.csv?1710948258582",
+        "Выписка по диапазону 8xx": "https://opendata.digital.gov.ru/downloads/ABC-8xx.csv?1710948258582",
+        "Выписка по диапазону 9xx": "https://opendata.digital.gov.ru/downloads/DEF-9xx.csv?1710948258583"
+    },
+    "data": "27.05.2024 14:28:07"
+}
